@@ -20,9 +20,10 @@ The project demonstrates a complete computer vision pipeline, including data pre
 
 
 <p align="center">
-  <img src="assets/resnet18.png" width="80%">
+  <img src="assets/resnet18.png" width="90%">
 </p>
-\t ResNet18 architecture
+
+<p align="center">ResNet-18 Architecture</p>
 
 
 # How it works
