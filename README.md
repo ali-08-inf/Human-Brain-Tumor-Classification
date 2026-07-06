@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
 ![ResNet18](https://img.shields.io/badge/Model-ResNet18-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 A deep learning project that classifies brain MRI scans into **Glioma**, **Meningioma**, **Pituitary Tumor**, and **No Tumor** using **PyTorch** and **ResNet-18**.
 
@@ -41,15 +41,15 @@ Training metrics and sample predictions are generated to provide insights into t
 # Results
 
 <p align="center">
-  <img src="assets/training_accuracy.png" width="80%">
+  <img src="assets/epoch_loss.png" width="80%">
 </p>
 
 <p align="center">
-  <img src="assets/training_loss.png" width="80%">
+  <img src="assets/loss_plot.png" width="80%">
 </p>
 
 <p align="center">
-  <img src="assets/sample_predictions.png" width="90%">
+  <img src="assets/sample_prediction.png" width="90%">
 </p>
 
 # Tech Stack
