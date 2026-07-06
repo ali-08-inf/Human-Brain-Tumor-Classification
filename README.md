@@ -18,6 +18,13 @@ The project demonstrates a complete computer vision pipeline, including data pre
 - Visualizes model predictions and training performance.
 - Built entirely using **PyTorch**.
 
+
+<p align="center">
+  <img src="assets/resnet18.png" width="80%">
+</p>
+
+
+
 # How it works
 
 ### 1. Load the Dataset
