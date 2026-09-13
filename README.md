@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor MRI Classification
+# Brain Tumor MRI Classification
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
